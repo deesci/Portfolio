@@ -1,8 +1,13 @@
 
 
+
 Github.com/deesci/portfolio
 
+	June 2020 - 
+	Just added Machine Learning kNN project 07
+
 # Portfolio
+
 
 ### About
 
@@ -12,16 +17,21 @@ It would be great to receive email with feedback, suggestions etc.
 
 ---
 
-## Project O1 
+## Project 07 Machine Learning
+
+**Hyperparameter optimisation with kNN - Predicting car prices** Using scikit-learn
+
+
+## Project 01 
 
 **Analysing existing app data to find which type of mobile app is more profitable**  Python using List of List, without NumPy and Pandas.
 
-## Project O2 
+## Project 02 
 
 **Prepare and Analyse with Python, data to find type of post that receives more comments** Python using List of List, without NumPy and Pandas.
 
 
-## Project O3 
+## Project 03 
 
 **Ebay car sales - data cleaning & exploring**  Python using NumPy and Pandas, 
 
@@ -36,6 +46,6 @@ It would be great to receive email with feedback, suggestions etc.
 **Chi Squared Hypothesis testing** Python using NumPy and Pandas
 
 
-## In progress
+## In progress/expected
 
- **Machine learning** *k-nearest neighbors* algorithm to predict car prices
+**Machine Learning k-means clustering and regression** predicting stock prices
