@@ -1,23 +1,14 @@
+##### Find below individual links to my projects
 
 
-[Repository](https://github.com/deesci/Portfolio)
 
-###### README.md  _Update: June 2020 - 	added Deep Learning and Random Forest_
-
-# Portfolio
-
-
-### About
-
-As data science enthusiast, I collect here my projects from research and learning different libraries, algorithm, problems. 
-
+>As data science enthusiast, I collect here my projects from research and learning different libraries, algorithm, problems. 
 I use *Python* and *SQL* as main programming languages. The libraries used are *Scikit-learn, NumPy, Pandas, and SciPy*. Most of these projects are in `ipynb` Jupyter notebook format. 
 
-Further works will be added as and when they get ready. 
+ 
 
  
   
- ## Projects   
 	
 
 ### Machine Learning
@@ -68,4 +59,12 @@ Further works will be added as and when they get ready.
 
 Feedback, suggestions welcome. _Many Thanks_.
 
+
+
+
+[Back to Repository](https://github.com/deesci/Portfolio)
+
 ---
+
+Deep Learning and Random Forest were added in this update. Further works will be added as and when they get ready.
+
